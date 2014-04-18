@@ -1,0 +1,32 @@
+RAT_SHELL
+
+Equipe de developpement :
+ lelabo_m
+ pailli_a
+ roche_d
+ guitte_a
+ creach_a
+
+
+ promo 2017
+
+installation :
+
+ make install
+
+fichier de configuration :
+
+ ~/.rshrc
+
+historique
+
+ ~/.rshistory
+
+usage : ./rsh [-c "commande"]
+
+version :
+ ./rsh --version
+
+help :
+ ./rsh --help
+
